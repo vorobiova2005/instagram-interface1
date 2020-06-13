@@ -1,0 +1,95 @@
+h1 {
+  text-align: center;
+}
+.one {
+  margin-left: 160px;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
+.leftstr {
+  margin-left: 450px;
+  margin-top: -120px;
+}
+.centerstr {
+  margin-top: -48px;
+  margin-left: 550px;
+}
+.rightstr {
+  margin-top: -48px;
+  margin-left: 670px;
+}
+.left {
+  margin-left: 450px;
+  margin-top: -20px;
+}
+.center {
+  margin-left: 550px;
+  margin-top: -30px;
+}
+.right {
+  margin-left: 670px;
+  margin-top: -35px;
+}
+p {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+ul {
+  list-style-type: square;
+  margin-left: 150px;
+}
+.colortext {
+  color: blue;
+}
+.leftbutton {
+  margin-left: 100px;
+  background-color: white;
+  width: 250px;
+  height: 30px;
+  border: 1px solid grey;
+}
+.centerbutton {
+  margin-left: 100px;
+  background-color: white;
+  width: 250px;
+  height: 30px;
+  border: 1px solid grey;
+}
+.rightbutton {
+  margin-left: 100px;
+  background-color: white;
+  width: 250px;
+  height: 30px;
+  border: 1px solid grey;
+}
+.two {
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 100px;
+  border: 4px solid grey;
+  border-radius: 100%;
+}
+.container{
+     margin-top: 50px;
+    border-top: 4px solid grey; 
+}
+img {
+  margin-left: 150px;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+}
+.three{
+    margin-left: 400px ;
+}
+.four{
+    margin-left:400px;
+}
+ .five{
+     margin-top: 0;
+    margin-left: 0;
+     width: 410px;
+     height: 300px;
+ }
